@@ -14,7 +14,7 @@
  */
 
 
-export const delay = 400;
+export const delay = 1000;
 export const TEST_NOTEBOOK = 'Test Notebook';
 // export const TEST_NOTEBOOK = 'Test Notebook ' + Math.random().toString(36).substring(2);
 export const SAMPLE_URL = 'https://github.com/opendistro-for-elasticsearch/sql/tree/master/sql-jdbc';
